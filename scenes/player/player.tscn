@@ -5,7 +5,7 @@
 [sub_resource type="GDScript" id="GDScript_8afob"]
 script/source = "class_name Player extends CharacterBody2D
 
-@export var speed: int = 100
+@export var speed: int = 150
 @onready var animations: AnimationPlayer = $AnimationPlayer
 
 var walking: bool = false
