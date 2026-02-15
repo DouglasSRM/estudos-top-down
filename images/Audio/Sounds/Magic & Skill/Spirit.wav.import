@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bgj0qwx6a7cxd"
+path="res://.godot/imported/Spirit.wav-b3ae8a65be8bd941e2300b78f1d747cd.sample"
+
+[deps]
+
+source_file="res://images/Audio/Sounds/Magic & Skill/Spirit.wav"
+dest_files=["res://.godot/imported/Spirit.wav-b3ae8a65be8bd941e2300b78f1d747cd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

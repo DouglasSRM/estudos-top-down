@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://crr5h7mcsd813"
+path="res://.godot/imported/Launch.wav-bd9fda9d90ba75c1dc091088107af0c0.sample"
+
+[deps]
+
+source_file="res://images/Audio/Sounds/Whoosh & Slash/Launch.wav"
+dest_files=["res://.godot/imported/Launch.wav-bd9fda9d90ba75c1dc091088107af0c0.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
